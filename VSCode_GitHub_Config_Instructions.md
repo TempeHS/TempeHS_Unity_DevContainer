@@ -6,8 +6,8 @@
 
   - Choose `Backup and sync settings`
   - Click the `Sign in` button that appears in the top menu
-  - Choose 'GitHub from the menu options
-  - Authenticate in the browser
+  - Choose `GitHub` from the menu options
+  - Authenticate in the browser when directed
 
 2. Open a PowerShell Terminal
 
@@ -20,6 +20,6 @@ git config --global user.email "your@school.email"
 git config --global user.name "username"
 ```
 
-4. Once these steps have been followed, you can commit, push and pull from VSCode using the 'Source Control' menu. On your first commit, you may need to authenticate through the browser.
+4. Once you have followed these steps, you can commit, push, and pull from VSCode using the 'Source Control' menu. On your first commit, you may need to authenticate through the browser again.
 
 <img src="https://code.visualstudio.com/assets/docs/sourcecontrol/intro/source-control-view.png" width="300" />
