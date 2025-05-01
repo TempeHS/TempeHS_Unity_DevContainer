@@ -4,10 +4,10 @@
 
 <img src="https://code.visualstudio.com/assets/docs/sourcecontrol/intro/vscode-accounts-menu.png" width="300" />
 
-  1. Choose `Backup and sync settings`
-  2. Click the `Sign in` button that appears in the top menu
-  3. Choose 'GitHub from the menu options
-  4. Authenticate in the browser
+  - Choose `Backup and sync settings`
+  - Click the `Sign in` button that appears in the top menu
+  - Choose 'GitHub from the menu options
+  - Authenticate in the browser
 
 2. Open a PowerShell Terminal
 
