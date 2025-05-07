@@ -20,6 +20,13 @@ git config --global user.email "your@school.email"
 git config --global user.name "username"
 ```
 
-4. Once you have followed these steps, you can commit, push, and pull from VSCode using the 'Source Control' menu. On your first commit, you may need to authenticate through the browser again.
+4. Once you have followed these steps, you can commit, push, and pull from VSCode using the 'Source Control' menu (see image below) or use the bash commands. On your first commit, you may need to authenticate through the browser again.
 
-<img src="https://code.visualstudio.com/assets/docs/sourcecontrol/intro/source-control-view.png" width="300" />
+| GUI | Bash |
+| --- | --- |
+| <img src="https://code.visualstudio.com/assets/docs/sourcecontrol/intro/source-control-view.png" width="300" /> | ```bash
+git add -A
+git commit -m "write your commit message"
+git push
+``` |
+
