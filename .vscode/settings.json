@@ -20,5 +20,6 @@
 		"css": false,
 		"SQL": false,
     		"C#": false
-	}
+	},
+  "chat.agent.enabled": false
 }
