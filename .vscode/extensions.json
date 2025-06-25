@@ -1,8 +1,15 @@
 {
   "recommendations": [
+    "ms-dotnettools.csharp",
+    "unity.unity-debug",
+    "visualstudiotoolsforunity.vstuc",
+    "kreativ-software.csharpextensions",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "vscode-icons-team.vscode-icons",
     "McCarter.start-git-bash",
     "ms-dotnettools.vscode-dotnet-runtime",
-    "ms-dotnettools.csharp",
     "oderwat.indent-rainbow",
     "mathematic.vscode-pdf",
     "GitHub.codespaces",
